@@ -1,5 +1,4 @@
 # Algorithms
-
 * On this Wiki i will try to explain from a mortal student and engineer the algorithms as best as i can
 * Hope it helps :)
  
