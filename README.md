@@ -5,4 +5,5 @@
 (V)  (;,,,,;)   (V)
 
 # Wiki at:
-    https://github.com/balart40/Algorithms/wiki
+* [Algorithms Wiki](https://github.com/balart40/Algorithms/wiki)
+* Or just click on the wiki tab above :)
