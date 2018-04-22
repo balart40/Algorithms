@@ -6,6 +6,6 @@
 # Wiki at:
 * [Algorithms Wiki](https://github.com/balart40/Algorithms/wiki)
 * Or just click on the wiki tab above :)
-# Run your algotiyhms at:
+# Run your algorithms at:
 * **Python**
     * http://www.codeskulptor.org/
