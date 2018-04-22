@@ -1,6 +1,5 @@
 # Algorithms
-* On this Wiki i will try to explain from a mortal student and engineer the algorithms as best as i can
-* Hope it helps :)
+* On the Wiki i'll try to explain as mortal student and engineer the algorithms as best as i can
  
 (V)  (;,,,,;)   (V)
 # Wiki at:
@@ -9,3 +8,5 @@
 # Run your algorithms at:
 * **Python**
     * http://www.codeskulptor.org/
+
+Hope This Helps :)
